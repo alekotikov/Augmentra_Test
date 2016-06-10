@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Augmentra_Test</string>
+    <string name="etHint">Please enter value</string>
+
+    <string name="btnText">Get Value</string>
+
+</resources>
